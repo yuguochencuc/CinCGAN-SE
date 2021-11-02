@@ -23,7 +23,7 @@ Samples under non-parallel training:
 If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 
 	@article{yu2021joint,
-  	title={Joint magnitude estimation and phase recovery using Cyle-in-cycle GAN for non-parallel speech enhancement},
+  	title={Joint magnitude estimation and phase recovery using Cycle-in-Cycle GAN for non-parallel speech enhancement},
   	author={Yu, Guochen and Li, Andong and Wang, Yutian and Guo, Yinuo and Zheng, Chengshi and Wang, Hui},
   	journal={arXiv preprint arXiv:2109.12591},
   	year={2021}
